@@ -30,7 +30,6 @@ normal text
 code block
 ```
 
-
 [VS code markdown reference](https://code.visualstudio.com/docs/languages/markdown?originUrl=%2Fdocs%2Flanguages%2Fpython)
 
 <!-- ![blade runner](./874732.jpg) -->
