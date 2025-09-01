@@ -3,8 +3,6 @@
 
 ### Level 3 heading 1
 
-[link](https://code.visualstudio.com/docs/languages/markdown?originUrl=%2Fdocs%2Flanguages%2Fpython)
-
 normal text
 
 *italic1*  or _italic2_
@@ -26,9 +24,6 @@ normal text
             spedfkskfksdkfkdmfkmsdmfsdlmfldsmfljmsofjlmfmsafamlkmflkdsmflkmsdklfjwepfkdsmfpwokfkpsdmfmdsklmgopwkgfmkdsmg;sdllfae
 
 
-horizontal rule
----
-
 `
 inline code
 `
@@ -36,3 +31,10 @@ inline code
 code block
 ```
 
+
+[VS code markdown reference](https://code.visualstudio.com/docs/languages/markdown?originUrl=%2Fdocs%2Flanguages%2Fpython)
+
+![blade runner](./870886.jpg)
+
+horizontal rule
+---
