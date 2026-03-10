@@ -1,4 +1,4 @@
-```
+``` yaml
 LOW LEVEL DESIGN
 │
 ├── 1. Programming Foundations
